@@ -1,0 +1,8 @@
+name: controls-environment
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - matplotlib
+  - ipywidgets
+  - control
